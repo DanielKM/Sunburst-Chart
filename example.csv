@@ -3,11 +3,11 @@ goods-agri-animals,5543
 goods-agri-forestry,4602
 goods-agri-hunting,987
 goods-agri-support,2647
-goods-extraction-oil&gas-conventional,68656
-goods-extraction-oil&gas-nonconventional,51456
+goods-extraction-oilgas-conventional,68656
+goods-extraction-oilgas-nonconventional,51456
 goods-extraction-mining-coal,1496
 goods-extraction-mining-iron,1450
-goods-extraction-mining-gold&silver,3125
+goods-extraction-mining-goldsilver,3125
 goods-extraction-mining-othermetallic,11116
 goods-extraction-mining-stone,936
 goods-extraction-mining-aggregates,1174

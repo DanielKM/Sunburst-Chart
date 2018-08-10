@@ -21,14 +21,14 @@ var colors = {
 
   "extraction": "#8B0000",
 
-  "oil&gas": "#8B008B",
+  "oilgas": "#8B008B",
   "conventional": "#111111"
   "nonconventional": "#999999"
 
   "mining": "#8B0000",
   "coal": "#303030",
   "iron": "#B22222",
-  "gold&silver": "#FF8C00",
+  "goldsilver": "#FF8C00",
   "othermetallic": "#556B2F",
   "stone": "#A9A9A9",
   "aggregates": "#D2691E",
