@@ -35,6 +35,12 @@ var colors = {
   "electricity": "#696969",
   "natgas": "#DC143C",
   "water": "#6495ED",
+  "construction": "#696969",
+  "residential": "#FF00FF",
+  "nonresidential": "#4B0082",
+  "repairs": "#191970",
+  "engineering": "#6A5ACD",
+
 
 };
 
