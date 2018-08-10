@@ -40,7 +40,18 @@ var colors = {
   "nonresidential": "#4B0082",
   "repairs": "#191970",
   "engineering": "#6A5ACD",
-
+  "manufacturing": "#D2691E",
+  "nondurable": "#800000",
+  "food": "#C71585",
+  "animal": "#191970",
+  "grain": "#D2691E",
+  "confectionary": "#696969",
+  "fruitandveg": "#DC143C",
+  "dairy": "#6495ED",
+  "meat": "#696969",
+  "seafood": "#FF00FF",
+  "bakeries": "#4B0082",
+  "other": "#191970"
 
 };
 
