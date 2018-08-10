@@ -11,7 +11,7 @@ var b = {
 // Mapping of step names to colors.
 var colors = {
   "Goods": "#9932CC",
-    "Agriculture, Forestry, Fishing and hunting": "#006400",
+    "Agriculture, Forestry, Fishing and Hunting": "#006400",
       "Crop Production": "#B8860B",
   "home": "#5687d1",
   "product": "#7b615c",
