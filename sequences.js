@@ -19,8 +19,8 @@ var colors = {
   "support": "#8FBC8F",
   "extraction": "#8B0000",
   "oilgas": "#8B008B",
-  "conventional": "#111111"
-  "nonconventional": "#999999"
+  "conventional": "#111111",
+  "nonconventional": "#999999",
   "mining": "#8B0000",
   "coal": "#303030",
   "iron": "#B22222",
