@@ -11,12 +11,31 @@ var b = {
 // Mapping of step names to colors.
 var colors = {
   "goods": "#9932CC",
+
   "agri": "#006400",
   "crops": "#B8860B",
   "animals": "#DAA520",
   "forestry": "#556B2F",
   "hunting": "#8B0000",
   "support": "#8FBC8F",
+
+  "extraction": "#8B0000",
+
+  "oil&gas": "#8B008B",
+  "conventional": "#111111"
+  "nonconventional": "#999999"
+
+  "mining": "#8B0000",
+  "coal": "#303030",
+  "iron": "#B22222",
+  "gold&silver": "#FF8C00",
+  "othermetallic": "#556B2F",
+  "stone": "#A9A9A9",
+  "aggregates": "#D2691E",
+  "potash": "#800000",
+  "othernonmetallic": "#C71585",
+  "support": "#191970",
+
   "1": "#5687d1",
   "2": "#7b615c",
   "3": "#de783b",
