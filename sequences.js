@@ -51,8 +51,15 @@ var colors = {
   "meat": "#696969",
   "seafood": "#FF00FF",
   "bakeries": "#4B0082",
-  "other": "#191970"
-
+  "other": "#191970",
+  "drinkstobacco": "#191970",
+  "softdrink": "#D2691E",
+  "breweries": "#696969",
+  "distilleries": "#DC143C",
+  "tobacco": "#6495ED",
+  "meat": "#696969",
+  "textiles": "#FF00FF",
+  "clothing": "#4B0082",
 };
 
 // Total size of all segments; we set this later, after loading the data.
