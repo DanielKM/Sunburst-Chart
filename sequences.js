@@ -13,12 +13,12 @@ var colors = {
   "goods": "#9932CC",
     "agriculture": "#006400",
       "crops": "#B8860B",
-  "home": "#5687d1",
-  "product": "#7b615c",
-  "search": "#de783b",
-  "account": "#6ab975",
-  "other": "#a173d1",
-  "end": "#bbbbbb"
+  "1": "#5687d1",
+  "2": "#7b615c",
+  "3": "#de783b",
+  "4": "#6ab975",
+  "5": "#a173d1",
+  "6": "#bbbbbb"
 };
 
 // Total size of all segments; we set this later, after loading the data.
