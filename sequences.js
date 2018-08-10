@@ -31,6 +31,11 @@ var colors = {
   "potash": "#800000",
   "othernonmetallic": "#C71585",
   "support": "#191970",
+  "utilities": "#D2691E",
+  "electricity": "#696969",
+  "natgas": "#DC143C",
+  "water": "#6495ED",
+
 };
 
 // Total size of all segments; we set this later, after loading the data.
