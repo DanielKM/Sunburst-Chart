@@ -1,0 +1,192 @@
+Goods ,Agriculture,Crop production [111],"13,554",,
+Goods ,Agriculture,Animal production [112],"5,543",,
+Goods ,Agriculture,Forestry and logging [113],"4,602",,
+Goods ,Agriculture,"Fishing, hunting and trapping [114]",987,,
+Goods ,Agriculture,Support activities for agriculture and forestry [115],"2,647",,
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Oil and Gas extraction,Conventional oil and gas extraction [211113],"68,656"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Oil and Gas extraction,Non-conventional oil extraction [211114],"51,456"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Coal mining [2121],"1,496"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Iron ore mining [21221],"1,450"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Gold and silver ore mining [21222],"3,125"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,"Copper, nickel, lead and zinc ore mining [21223]","9,691"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Other metal ore mining [21229],"1,425"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Stone mining and quarrying [21231],936
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying [21232]","1,174"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Potash mining [212396],"1,712"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	",Mining & quarrying,Other non-metallic mineral mining and quarrying (except potash) [21239X] 3,"2,080"
+Goods ,Energy and Mining,"Mining, quarrying, and oil and gas extraction	","Support activities for mining and oil and gas extraction	",Support activities for mining and oil and gas extraction [213],"9,834"
+Goods ,Utilities,"Electric power generation, transmission and distribution [2211]","30,975",,
+Goods ,Utilities,Natural gas distribution [2212],"5,494",,
+Goods ,Utilities,"Water, sewage and other systems [2213]","2,980",,
+Goods ,Construction,Residential building construction [23A],"47,270",,
+Goods ,Construction,Non-residential building construction [23B],"17,983",,
+Goods ,Construction,Repair construction [23D],"24,890",,
+Goods ,Construction,Engineering and other construction activities [23X],"38,595",,
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Animal food manufacturing [3111],"1,704"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Grain and oilseed milling [3112],"3,190"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Sugar and confectionery product manufacturing [3113],"1,136"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Fruit and vegetable preserving and specialty food manufacturing [3114],"2,597"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Dairy product manufacturing [3115],"3,052"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Meat product manufacturing [3116],"6,356"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Seafood product preparation and packaging [3117],"1,313"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Bakeries and tortilla manufacturing [3118],"3,070"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Food Manufacturing,Other food manufacturing [3119],"4,551"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Beverage and Tobacco Manufacturing,Soft drink and ice manufacturing [31211],"1,441"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Beverage and Tobacco Manufacturing,Breweries [31212],"2,949"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Beverage and Tobacco Manufacturing,Wineries and distilleries [3121A] 3,"1,161"
+Goods ,Manufacturing,"Non-durable manufacturing industries	",Beverage and Tobacco Manufacturing,Tobacco manufacturing [3122],681
+Goods ,Manufacturing,"Non-durable manufacturing industries	","Textile, clothing and leather product manufacturing	",Textile and textile product mills [31A] 3,"1,313"
+Goods ,Manufacturing,"Non-durable manufacturing industries	","Textile, clothing and leather product manufacturing	",Clothing and leather and allied product manufacturing [31B] 3,"1,265"
+Goods ,Manufacturing,Durable manufacturing industries,"Wood product manufacturing	",Sawmills and wood preservation [3211],"4,486"
+Goods ,Manufacturing,Durable manufacturing industries,"Wood product manufacturing	","Veneer, plywood and engineered wood product manufacturing [3212]","3,523"
+Goods ,Manufacturing,Durable manufacturing industries,"Wood product manufacturing	",Other wood product manufacturing [3219],"2,633"
+Goods ,Manufacturing,Paper and Printing,"Paper manufacturing	","Pulp, paper and paperboard mills [3221]","4,308"
+Goods ,Manufacturing,Paper and Printing,"Paper manufacturing	",Converted paper product manufacturing [3222],"3,381"
+Goods ,Manufacturing,Paper and Printing,"Printing and related support activities	",Printing and related support activities [323],"4,715"
+Goods ,Manufacturing,Energy sector,"Petroleum and coal product manufacturing	",Petroleum refineries [32411],"4,502"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Petroleum and coal product manufacturing	",Petroleum and coal products manufacturing (except petroleum refineries) [3241A] 3,741
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	",Basic chemical manufacturing [3251],"2,404"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	","Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing [3252]","1,715"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	","Pesticide, fertilizer and other agricultural chemical manufacturing [3253]","1,017"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	",Pharmaceutical and medicine manufacturing [3254],"6,175"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	","Paint, coating and adhesive manufacturing [3255]","1,018"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	","Soap, cleaning compound and toilet preparation manufacturing [3256]","1,590"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Chemical manufacturing	",Other chemical product manufacturing [3259],"1,624"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Plastics and rubber products manufacturing	",Plastic product manufacturing [3261],"8,787"
+Goods ,Manufacturing,"Chemical, plastics and rubber","Plastics and rubber products manufacturing	",Rubber product manufacturing [3262],"1,802"
+Goods ,Manufacturing,Durable manufacturing industries,"Non-metallic mineral product manufacturing	",Cement and concrete product manufacturing [3273],"3,861"
+Goods ,Manufacturing,Durable manufacturing industries,"Non-metallic mineral product manufacturing	",Non-metallic mineral product manufacturing (except cement and concrete products) [327A] 3,"2,508"
+Goods ,Manufacturing,Durable manufacturing industries,"Primary metal manufacturing	",Iron and steel mills and ferro-alloy manufacturing [3311],"2,922"
+Goods ,Manufacturing,Durable manufacturing industries,"Primary metal manufacturing	",Steel product manufacturing from purchased steel [3312],"1,667"
+Goods ,Manufacturing,Durable manufacturing industries,"Primary metal manufacturing	",Alumina and aluminum production and processing [3313],"4,460"
+Goods ,Manufacturing,Durable manufacturing industries,"Primary metal manufacturing	",Non-ferrous metal (except aluminum) production and processing [3314],"5,142"
+Goods ,Manufacturing,Durable manufacturing industries,"Primary metal manufacturing	",Foundries [3315],944
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	",Forging and stamping [3321],571
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	",Architectural and structural metals manufacturing [3323],"4,608"
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	","Boiler, tank and shipping container manufacturing [3324]","1,146"
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	",Hardware manufacturing [3325],607
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	",Spring and wire product manufacturing [3326],307
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	","Machine shops, turned product, and screw, nut and bolt manufacturing [3327]","2,912"
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	","Coating, engraving, heat treating and allied activities [3328]",816
+Goods ,Manufacturing,Durable manufacturing industries,"Fabricated metal product manufacturing	","Cutlery, hand tools and other fabricated metal product manufacturing [332A] 3","2,351"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	","Agricultural, construction and mining machinery manufacturing [3331]","2,993"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	",Industrial machinery manufacturing [3332],"1,589"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	",Commercial and service industry machinery manufacturing [3333],"2,640"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	","Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing [3334]","2,020"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	",Metalworking machinery manufacturing [3335],"2,343"
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	","Engine, turbine and power transmission equipment manufacturing [3336]",699
+Goods ,Manufacturing,Durable manufacturing industries,"Machinery manufacturing	",Other general-purpose machinery manufacturing [3339],"3,772"
+Goods ,Manufacturing,Durable manufacturing industries,"Computer and electronic product manufacturing	",Computer and peripheral equipment manufacturing [3341],613
+Goods ,Manufacturing,Durable manufacturing industries,"Computer and electronic product manufacturing	",Communications equipment manufacturing [3342],"1,629"
+Goods ,Manufacturing,Durable manufacturing industries,"Computer and electronic product manufacturing	",Semiconductor and other electronic component manufacturing [3344],"1,125"
+Goods ,Manufacturing,Durable manufacturing industries,"Computer and electronic product manufacturing	",Other electronic product manufacturing [334A] 3,"2,752"
+Goods ,Manufacturing,Durable manufacturing industries,"Electrical equipment, appliance and component manufacturing	",Electric lighting equipment manufacturing [3351],665
+Goods ,Manufacturing,Durable manufacturing industries,"Electrical equipment, appliance and component manufacturing	",Household appliance manufacturing [3352],156
+Goods ,Manufacturing,Durable manufacturing industries,"Electrical equipment, appliance and component manufacturing	",Electrical equipment manufacturing [3353],"1,571"
+Goods ,Manufacturing,Durable manufacturing industries,"Electrical equipment, appliance and component manufacturing	",Other electrical equipment and component manufacturing [3359],"1,131"
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Motor vehicle manufacturing [3361],"7,802"
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Motor vehicle body and trailer manufacturing [3362],970
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Motor vehicle parts manufacturing [3363],"8,811"
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Aerospace product and parts manufacturing [3364],"7,036"
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Railroad rolling stock manufacturing [3365],613
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Ship and boat building [3366],620
+Goods ,Manufacturing,Durable manufacturing industries,"Transportation equipment manufacturing	",Other transportation equipment manufacturing [3369],"1,449"
+Goods ,Manufacturing,Durable manufacturing industries,"Furniture and related product manufacturing	",Household and institutional furniture and kitchen cabinet manufacturing [3371],"2,733"
+Goods ,Manufacturing,Durable manufacturing industries,"Furniture and related product manufacturing	",Office furniture (including fixtures) manufacturing [3372],"1,518"
+Goods ,Manufacturing,Durable manufacturing industries,"Furniture and related product manufacturing	",Other furniture-related product manufacturing [3379],393
+Goods ,Manufacturing,Durable manufacturing industries,Miscellaneous manufacturing,Medical equipment and supplies manufacturing [3391],"1,481"
+Goods ,Manufacturing,Durable manufacturing industries,Miscellaneous manufacturing,Other miscellaneous manufacturing [3399],"2,357"
+Services,Trade,Wholesale trade,Farm product wholesaler-distributors [411],"1,788",
+Services,Trade,Wholesale trade,Petroleum product wholesaler-distributors [412],"5,056",
+Services,Trade,Wholesale trade,"Food, beverage and tobacco wholesaler-distributors [413]","11,799",
+Services,Trade,Wholesale trade,Personal and household goods wholesaler-distributors [414],"15,035",
+Services,Trade,Wholesale trade,Motor vehicle and parts wholesaler-distributors [415],"8,457",
+Services,Trade,Wholesale trade,Building material and supplies wholesaler-distributors [416],"16,508",
+Services,"Information and communication technology, services",Wholesale trade,"Machinery, equipment and supplies wholesaler-distributors [417]","30,083",
+Services,Trade,Wholesale trade,Miscellaneous wholesaler-distributors [418],"13,615",
+Services,Trade,Wholesale trade,"Wholesale electronic markets, and agents and brokers [419]","2,781",
+Services,Trade,Retail Trade,Motor vehicle and parts dealers [441],"17,724",
+Services,Trade,Retail Trade,Furniture and home furnishings stores [442],"4,337",
+Services,Trade,Retail Trade,Electronics and appliance stores [443],"5,187",
+Services,Trade,Retail Trade,Building material and garden equipment and supplies dealers [444],"7,517",
+Services,Trade,Retail Trade,Food and beverage stores [445],"16,852",
+Services,Trade,Retail Trade,Health and personal care stores [446],"10,665",
+Services,Trade,Retail Trade,Gasoline stations [447],"6,085",
+Services,Trade,Retail Trade,Clothing and clothing accessories stores [448],"10,559",
+Services,Trade,Retail Trade,"Sporting goods, hobby, book and music stores [451]","3,289",
+Services,Trade,Retail Trade,General merchandise stores [452],"10,043",
+Services,Trade,Retail Trade,Miscellaneous store retailers [453],"3,788",
+Services,Trade,Retail Trade,Non-store retailers [454],"2,936",
+Services,Transportation and warehousing,Transportation and warehousing,Air transportation [481],"10,457",
+Services,Transportation and warehousing,Transportation and warehousing,Rail transportation [482],"7,606",
+Services,Transportation and warehousing,Transportation and warehousing,Water transportation [483],"1,602",
+Services,Transportation and warehousing,Transportation and warehousing,Truck transportation [484],"23,110",
+Services,Transportation and warehousing,Transportation and warehousing,Urban transit systems [4851],"4,428",
+Services,Transportation and warehousing,Transportation and warehousing,Taxi and limousine service [4853],"1,059",
+Services,Transportation and warehousing,Transportation and warehousing,Other transit and ground passenger transportation and scenic and sightseeing transportation [48A] 3,"2,251",
+Services,Transportation and warehousing,"Energy sector	",Pipeline transportation of natural gas [4862],"2,923",
+Services,Transportation and warehousing,"Energy sector	",Crude oil and other pipeline transportation [486A] 3,"3,342",
+Services,Transportation and warehousing,Support activities for transportation [488],Support activities for transportation [488],"15,365",
+Services,Transportation and warehousing,Postal and courier services,Postal service [491],"2,917",
+Services,Transportation and warehousing,Postal and courier services,Couriers and messengers [492],"3,574",
+Services,Transportation and warehousing,Warehousing and storage [493],Warehousing and storage [493],"2,891",
+Services,Information and cultural industries,"Content and media sector	",Publishing industries (except Internet) [511],"9,776",
+Services,Information and cultural industries,"Content and media sector	",Motion picture and sound recording industries [512],"4,627",
+Services,Information and cultural industries,"Content and media sector	",Radio and television broadcasting [5151],"2,387",
+Services,Information and cultural industries,"Content and media sector	",Pay and specialty television [5152],"1,074",
+Services,Information and cultural industries,"Information and communication technology, services",Telecommunications [517],"30,501",
+Services,Information and cultural industries,"Information and communication technology, services","Data processing, hosting, and related services [518]","1,749",
+Services,Information and cultural industries,"Content and media sector	",Other information services [519],"2,208",
+Services,Business Sector,Finance and insurance,Local credit unions [52213],"4,998",
+Services,Business Sector,Finance and insurance,"Banking, monetary authorities and other depository credit intermediation [52BX] 3","59,196",
+Services,Business Sector,Finance and insurance,Non-depository credit intermediation [5222],"6,880",
+Services,Business Sector,Finance and insurance,Activities related to credit intermediation [5223],"2,258",
+Services,Business Sector,Finance and insurance,Insurance carriers [5241],"21,448",
+Services,Business Sector,Finance and insurance,"Agencies, brokerages and other insurance related activities [5242]","6,738",
+Services,Business Sector,Finance and insurance,"Financial investment services, funds and other financial vehicles [52A] 3","22,811",
+Services,Business Sector,Real estate and rental and leasing,Lessors of real estate [5311],"59,312",
+Services,Business Sector,Real estate and rental and leasing,Owner-occupied dwellings [5311A],"146,511",
+Services,Business Sector,Real estate and rental and leasing,Offices of real estate agents and brokers and activities related to real estate [531A] 3,"8,827",
+Services,Business Sector,Real estate and rental and leasing,Automotive equipment rental and leasing [5321],"3,699",
+Services,Business Sector,Real estate and rental and leasing,Rental and leasing services (except automotive equipment) [532A] 3,"8,147",
+Services,Business Sector,Real estate and rental and leasing,Lessors of non-financial intangible assets (except copyrighted works) [533],"1,762",
+Services,Business Sector,"Professional, scientific and technical services",Legal services [5411],"11,229",
+Services,Business Sector,"Professional, scientific and technical services","Accounting, tax preparation, bookkeeping and payroll services [5412]","11,507",
+Services,Business Sector,"Professional, scientific and technical services","Architectural, engineering and related services [5413]","20,642",
+Services,Business Sector,"Professional, scientific and technical services",Computer systems design and related services [5415],"29,131",
+Services,Business Sector,"Professional, scientific and technical services","Advertising, public relations, and related services [5418]","4,298",
+Services,Business Sector,"Professional, scientific and technical services",Specialized design services [5414],"1,216",
+Services,Business Sector,"Professional, scientific and technical services","Management, scientific and technical consulting services [5416]","12,160",
+Services,Business Sector,"Professional, scientific and technical services",Scientific research and development services [5417],"4,095",
+Services,Business Sector,"Professional, scientific and technical services","Other professional, scientific and technical services [5419]","5,385",
+Services,Business Sector,Management of companies and enterprises,Management of companies and enterprises [55],"10,879",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Office administrative services [5611],"5,728",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Employment services [5613],"6,488",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Business support services [5614],"4,325",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Travel arrangement and reservation services [5615],"1,997",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Investigation and security services [5616],"4,170",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Services to buildings and dwellings [5617],"8,054",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Facilities and other support services [561A] 3,"6,207",
+Services,Business Sector,"Administrative and support, waste management and remediation services",Waste management and remediation services [562],"6,108",
+Services,Public sector,"Educational services	",Elementary and secondary schools [6111],"47,479",
+Services,Public sector,"Educational services	",Community colleges and C.E.G.E.P.s [6112],"7,878",
+Services,Public sector,"Educational services	",Universities [6113],"32,297",
+Services,Public sector,"Educational services	",Other educational services [611A] 3,"4,098",
+Services,Public sector,Health care and social assistance,Ambulatory health care services [621],"45,634",
+Services,Public sector,Health care and social assistance,Hospitals [622],"41,533",
+Services,Public sector,Health care and social assistance,Nursing and residential care facilities [623],"17,725",
+Services,Public sector,Health care and social assistance,Social Assistance [624],"13,129",
+Services,Business Sector,"Arts, entertainment and recreation","Performing arts, spectator sports and related industries, and heritage institutions [71A] 3","6,436",
+Services,Business Sector,"Arts, entertainment and recreation",Gambling industries [7132],"2,323",
+Services,Business Sector,"Arts, entertainment and recreation",Amusement and recreation industries [713A] 3,"5,122",
+Services,Business Sector,Accommodation and food services,Accommodation services [721],"11,605",
+Services,Business Sector,Accommodation and food services,Food services and drinking places [722],"26,643",
+Services,Business Sector,Other services (except public administration),Repair and maintenance [811],"13,525",
+Services,Business Sector,Other services (except public administration),Personal and laundry services [812],"7,207",
+Services,Business Sector,Other services (except public administration),"Religious, grant-making, civic, and professional and similar organizations [813]","10,134",
+Services,Business Sector,Other services (except public administration),Private households [814],"2,549",
+Services,Public sector,Public administration,Defence services [9111],"10,632",
+Services,Public sector,Public administration,Federal government public administration (except defence) [911A] 3,"30,341",
+Services,Public sector,Public administration,Provincial and territorial public administration [912],"29,102",
+Services,Public sector,Public administration,"Local, municipal and regional public administration [913]","35,835",
+Services,Public sector,Public administration,Aboriginal public administration [914],"3,502",
